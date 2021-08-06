@@ -6,8 +6,8 @@ import './App.css';
 function App() {
   return (
     <main>
-      <section class="container">
-        <h3>0 birthdays today</h3>
+      <section className="container">
+        <h3>0 birthdays today 🎉</h3>
         <List />
       </section>
     </main>

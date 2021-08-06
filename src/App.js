@@ -11,7 +11,7 @@ function App() {
     <main>
       <section className="container" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
         <h3>{data.length} birthdays today 🎉</h3>
-        <List />
+        <List people="data" />
       </section>
     </main>
   );

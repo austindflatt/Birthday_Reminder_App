@@ -1,11 +1,17 @@
 import React, { useState } from 'react';
+import data from './data'
+import List from './List'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Birthday Reminder</h1>
-    </div>
+    <main>
+      <section class="container">
+        <h3>
+          <List />
+        </h3>
+      </section>
+    </main>
   );
 }
 

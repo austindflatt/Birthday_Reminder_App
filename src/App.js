@@ -1,13 +1,16 @@
 import React, { useState } from 'react';
 import data from './data'
 import List from './List'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import './App.css';
 
 function App() {
+  AOS.init();
   return (
     <main>
-      <section className="container">
-        <h3>0 birthdays today 🎉</h3>
+      <section className="container" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+        <h3>{data.length} birthdays today 🎉</h3>
         <List />
       </section>
     </main>

@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# 🎉 Birthday Reminder App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![bday](https://raw.githubusercontent.com/austindflatt/Tech_Meetup_Capstone/main/event.png)
 
-## Available Scripts
+## 🛠 Tools
+
+* React.js
+* Animate on scroll library
+* HTML
+* CSS
+
+## ✨ Live Demo
+
+Coming Soon!
+
+## 🚀 Available Scripts
 
 In the project directory, you can run:
 

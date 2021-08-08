@@ -1,6 +1,6 @@
 # 🎉 Birthday Reminder App
 
-![bday]()
+![bday](https://raw.githubusercontent.com/austindflatt/Birthday_Reminder_App/main/bday.png)
 
 ## 🛠 Tools
 

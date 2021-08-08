@@ -1,6 +1,6 @@
 # 🎉 Birthday Reminder App
 
-![bday](https://raw.githubusercontent.com/austindflatt/Tech_Meetup_Capstone/main/event.png)
+![bday]()
 
 ## 🛠 Tools
 

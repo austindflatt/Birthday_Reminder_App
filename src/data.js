@@ -9,6 +9,6 @@ export default [
         id: 2,
         name: 'Jeff Bezos',
         age: 57,
-        image: 'https://austinflatt.com/static/images/headshot.png',
+        image: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS3YAfahV4LU/v0/1000x-1.jpg',
     },
-]
+];

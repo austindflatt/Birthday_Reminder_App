@@ -11,7 +11,7 @@ function App() {
   return (
     <main>
       <section className="container" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
-        <h3>{data.length} birthdays today 🎉</h3>
+        <h3>{people.length} birthdays today 🎉</h3>
         <List people={people} />
         <button onClick={() => setPeople([])}>
           clear all
